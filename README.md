@@ -24,6 +24,6 @@ This project is a seat heating system in a car. When a passenger has occupied a 
 #### CI and Code Quality
 
 ## BADGES
-| BUILD                                                                                                                                                                                          | CPP CHECK                                                                                                                                                                                                                      |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![Compile-Linux](https://github.com/256360/Emb-C/actions/workflows/Compile.yml/badge.svg)](https://github.com/256360/Emb-C/actions/workflows/Compile.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/256360/Emb-C/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/256360/Emb-C/actions/workflows/CodeQuality.yml) |
+| BUILD | CPP CHECK| CODACY|
+|:--:|:--:|:--:|
+| [![Compile-Linux](https://github.com/256360/Emb-C/actions/workflows/Compile.yml/badge.svg)](https://github.com/256360/Emb-C/actions/workflows/Compile.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/256360/Emb-C/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/256360/Emb-C/actions/workflows/CodeQuality.yml)|[![codacy-badge](https://github.com/256360/Emb-C/actions/workflows/codacy-analysis.yml/badge.svg)](https://github.com/256360/Emb-C/actions/workflows/codacy-analysis.yml)
